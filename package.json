@@ -1,0 +1,14 @@
+{
+  "name": "expressbookreview",
+  "version": "1.0.0",
+  "description": "IBM Developing Back-End Apps with Node.js and Express final project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
