@@ -1,0 +1,3 @@
+curl -X DELETE http://localhost:5000/review/1 -H "Authorization: Bearer <JWT_TOKEN>"
+
+{"message":"Review successfully deleted","reviews":{"initial_user":"A powerful and memorable classic."}}
